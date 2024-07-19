@@ -1,0 +1,10 @@
+[
+  {
+    "model": "spacePick_app.Likes",
+    "fields": {
+      "user_id": "36ce89264b8a41cdbea9c3a1fc578763",
+      "apod_id": "999473cf03224521bec436ce5412ffd2",
+      "delete_flg": false
+    }
+  }
+]

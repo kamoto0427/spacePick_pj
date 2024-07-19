@@ -1,0 +1,10 @@
+[
+  {
+    "model": "spacePick_app.Users",
+    "fields": {
+      "user_id": "36ce89264b8a41cdbea9c3a1fc578763",
+      "user_name": "yamada",
+      "delete_flg": false
+    }
+  }
+]

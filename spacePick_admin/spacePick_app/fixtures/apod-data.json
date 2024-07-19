@@ -1,0 +1,13 @@
+[
+  {
+    "model": "spacePick_app.Apod",
+    "fields": {
+      "apod_id": "999473cf03224521bec436ce5412ffd2",
+      "title": "NGC 1350",
+      "explanation": "This gorgeous island universe lies about 85 million",
+      "date": "2024-07-07",
+      "url": "https://apod.nasa.gov/apod/image/2102/NGC1350_crop1024.jpg",
+      "delete_flg": false
+    }
+  }
+]
